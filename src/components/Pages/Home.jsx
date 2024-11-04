@@ -1,7 +1,13 @@
+import Banner from "../Banner";
+
 const Home = () => {
   return (
     <div>
-      <h2 className="text-4xl">Home Page</h2>
+      {/* banner */}
+      <Banner></Banner>
+      {/* heading */}
+      {/* Categories tab section */}
+      {/* Dynamic Nested Component */}
     </div>
   );
 };
